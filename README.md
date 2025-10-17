@@ -36,9 +36,21 @@
 ---
 
 ## 🧰 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,powerbi,kaggle,git,github,docker,py,sqlite,sklearn,tensorflow,pytorch" />
+<p align="center" style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" title="Python" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" title="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" title="C++" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" title="Java" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python Package" width="48" title="Python Package" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" title="SQLite" />
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="48" title="scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" title="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" title="PyTorch" />
 </p>
+
 
 ---
 
@@ -53,8 +65,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=269Nikhil&show_icons=true&theme=radical&count_private=true" height="150px"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=269Nikhil&theme=radical" height="150px"/>
+ <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=269Nikhil&theme=radical" height="150px" alt="" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=269Nikhil&layout=compact&theme=radical" height="150px"/>
