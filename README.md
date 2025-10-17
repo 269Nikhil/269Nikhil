@@ -1,90 +1,115 @@
-# 👋 Hi, I'm Nikhil Chaubey — Data Scientist • Tech Enthusiast
-
-[![Profile views](https://komarev.com/ghpvc/?username=269Nikhil&color=0e75b6)](https://github.com/269Nikhil)
-
-I'm a technology enthusiast with a passion for turning raw data into clear insights, scalable models, and meaningful products. I focus on Data Science, Machine Learning, and building reproducible data workflows that solve real-world problems.
-
----
-
-## 🚀 Quick Highlights
-- 🔬 Domain: Data Science & Machine Learning (modeling, feature engineering, evaluation)
-- 🧠 Strengths: Python, statistics, data wrangling, ML pipelines, model interpretability
-- ⚙️ Tools: pandas, NumPy, scikit-learn, TensorFlow / PyTorch, Jupyter, SQL, Docker
-- 📈 Interests: Production ML, time series, NLP, explainability, and data storytelling
-
----
-
-## ✨ Eye-catching Snapshot
+# 👋 Hi, I'm Nikhil Chaubey
+### Data Scientist • ML Engineer • Tech Enthusiast
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=269Nikhil&show_icons=true&theme=radical&count_private=true" alt="Nikhil's GitHub stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=800&color=00F7FF&center=true&vCenter=true&width=680&lines=Turning+data+into+impact;Modeling+with+clarity+%26+explainability;Building+reproducible+ML+systems" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/269Nikhil" title="GitHub Profile">
+    <img src="https://komarev.com/ghpvc/?username=269Nikhil&color=0e75b6" alt="Profile views" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin" title="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your-email@example.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kaggle.com/your-kaggle" title="Kaggle" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black" alt="Kaggle" />
+  </a>
+</p>
+
+---
+
+## About Me
+- 🔭 I build end-to-end data solutions — from data ingestion and exploration to modeling and deployment.  
+- 🧠 Strong focus: Data Science, Statistical Modeling, Feature Engineering, Model Explainability.  
+- ⚙️ I care about reproducibility (notebooks → scripts → containers), clean pipelines, and clear storytelling.  
+- 🌱 Currently exploring MLOps, model monitoring, and advanced NLP.
+
+---
+
+## Snapshot
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=269Nikhil&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=269Nikhil&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=269Nikhil&theme=radical&column=7&margin-w=15" alt="Trophies" />
+---
+
+## What I Work With
+<p align="center" style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" title="Python" />
+  <img src="https://skillicons.dev/icons?i=pandas" alt="pandas" width="48" title="pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="48" title="NumPy" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="48" title="scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=xg" alt="XGBoost" width="48" title="XGBoost" />
+  <img src="https://skillicons.dev/icons?i=lightgbm" alt="LightGBM" width="48" title="LightGBM" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" title="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" title="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="48" title="SQL" />
+  <img src="https://skillicons.dev/icons?i=mlflow" alt="MLflow" width="48" title="MLflow" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" title="Git" />
 </p>
 
 ---
 
-## 🧭 What I build
-I work on projects that move from data ingestion → exploration → modeling → deployment. I like to make my work:
-- Reproducible (versioning, notebooks → scripts, containers)
-- Interpretable (model explanations, clear metrics)
-- Useful (focus on actionable insights and impact)
+## Featured Work (replace with your repo links)
+- 🔬 [End-to-End ML Pipeline](https://github.com/269Nikhil/e2e-ml-pipeline) — Clean data ingestion, experiment tracking with MLflow, and production-ready model serving (FastAPI + Docker).  
+- 🧾 [Document Intelligence (NLP)](https://github.com/269Nikhil/doc-intel) — Extractive summarization + classification for business documents with explainability hooks (SHAP).  
+- ⏱️ [Time Series Forecasting Suite](https://github.com/269Nikhil/time-series-suite) — Modular backtesting, feature stores, and robust evaluation for multiple horizons.  
 
-Pinned project ideas (replace with your repos):
-- 📊 Predictive analytics pipelines — end-to-end model training + deployment
-- 🧾 NLP tools — document classification, extractive summarization
-- ⏱️ Time-series forecasting — robust backtesting + feature stores
-
-Want me to pin specific projects here? I can auto-generate the project cards for your repos.
+(If any of the links above are placeholders, edit them to point at your actual repos. I can help generate project cards for live repos.)
 
 ---
 
-## 🛠️ Tech Stack (short)
-- Languages: Python, SQL, R (familiar)
-- ML & Libraries: scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch
-- Data: pandas, NumPy, SQL, Airflow (ETL ideas)
-- Tools: Jupyter, Docker, Git, GitHub Actions, MLflow (experiments + tracking)
-- Visualization: matplotlib, seaborn, plotly, dashboards
+## Notebooks & Demos
+- Colab / Notebooks: Link to your top notebooks for quick demos (EDA, model training logs, interpretability notebooks).  
+- Live demo idea: small dashboard (Streamlit) that showcases model predictions + explanation for a sample dataset.
 
 ---
 
-## 📚 Currently Learning
-- Productionizing ML models (MLOps patterns)
-- Advanced deep learning architectures for NLP & vision
-- Building more robust model explainability layers (SHAP/LIME + custom)
+## How I Work
+- Data first: understand distributions, missingness, leakage risks.  
+- Iterative modeling: baseline → feature engineering → ensemble → interpretation.  
+- Production aware: containerized models, CI for retraining, and monitoring for data drift.
 
 ---
 
-## 📫 Let's connect
-- GitHub: https://github.com/269Nikhil
-- LinkedIn: (your-linkedin-here)
-- Email: (your-email-here)
-
-Replace placeholders above with your real contact links for best results.
+## Blog / Reading List
+- I like short, practical write-ups and reproducible EDA guides. Add your blog or links to favorite articles here.
 
 ---
 
-## 🎯 Quick Tips to make this README even cooler
-- Add a short GIF or hero image showcasing a project in action.
-- Replace the "Pinned project ideas" with markdown badges linking directly to your repo pages:
-  - Example: [![Project Name](https://img.shields.io/badge/Project-Name-blue?logo=github)](https://github.com/269Nikhil/project-name)
-- Add a "Featured Notebooks" section linking to your Jupyter notebooks or Google Colab demos.
-- Show a "Where to start" section for visitors who want to explore your best repos first.
+## Contact
+- GitHub: https://github.com/269Nikhil  
+- LinkedIn: https://www.linkedin.com/in/your-linkedin  
+- Email: your-email@example.com  
+- Kaggle: https://kaggle.com/your-kaggle
 
 ---
 
-## 💡 Fun fact
-I love turning messy datasets into clean dashboards — it's like solving a puzzle where every piece helps tell a better story.
+## Quick Tips to Make This README Yours
+- Add a hero image (SVG) with your name + a data motif (charts, nodes).  
+- Replace featured projects with direct repo cards.  
+- Embed a short GIF showing a notebook run or dashboard interaction.  
+- Add a "Where to start" section for visitors to explore your best repos.
 
 ---
 
-If you'd like, I can:
-- Auto-generate a "Projects" section with live repo links from your account,
-- Add a custom hero banner (SVG/PNG) with your name and a data-science themed illustration,
-- Or create a short "About me" video GIF to embed.
+## Fun fact
+I treat messy datasets like crossword puzzles — the satisfaction is in making each piece fit and telling a clearer story.
 
-Tell me which of these you'd like and I’ll update this README accordingly.
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=269Nikhil&theme=react-dark&area=true" alt="activity graph" />
+</p>
